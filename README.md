@@ -38,7 +38,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills for Data Nerds](Img\likehood_skill_demand_data.png)
+![Visualization of Top Skills for Data Nerds](/Img/likehood_skill_demand_data.png)
 
 ### Insights
 
