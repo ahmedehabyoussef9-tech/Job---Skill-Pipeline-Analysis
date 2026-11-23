@@ -369,8 +369,6 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the US Job Postings](Img\likehood_skill_demand_data.png)
-=======
 ![Visualization of Top Skills for Data Nerds](/Img/likehood_skill_demand_data.png)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
