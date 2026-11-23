@@ -89,7 +89,7 @@ plt.show()
 
 ### Results
 
-![Number of Jobs per Country](Img\jobs_count_per_country.png)
+![Number of Jobs per Country](Img/jobs_count_per_country.png)
 
 *Bar graph visualizing the job count per country.*
 
@@ -125,7 +125,7 @@ plt.show()
 
 ### Results
 
-![The three characteristics](Img\3_criterias.png)
+![The three characteristics](Img/3_criterias.png)
 
 *Pie Chart visualizing the three characteristics like Work from home, no degree requirement, Health insurance offered.*
 
@@ -207,7 +207,7 @@ plt.show()
 
 ### Results
 
-![Top 10 Location for DE vs DA in the US](Img\Top_10_locations_for_DE_vs_DA_in_US.png)
+![Top 10 Location for DE vs DA in the US](Img/Top_10_locations_for_DE_vs_DA_in_US.png)
 
 *bar Chart visualizing the top 10 location in the US for data analysis and data engineering job posts.*
 
@@ -279,7 +279,7 @@ plt.show()
 
 ### Results
 
-![Companies Job Postings in the US](Img\companies_job_posting_in_the_US.png)
+![Companies Job Postings in the US](Img/companies_job_posting_in_the_US.png)
 
 *Bar graphs visualizing the companies job posting count for DA vs DE job in the US.*
 
@@ -334,7 +334,7 @@ plt.show()
 
 ### Results
 
-![Data Analysis vs Data Engineering job offerings](Img\DA_vs_DE_job_offerings.png)
+![Data Analysis vs Data Engineering job offerings](Img/DA_vs_DE_job_offerings.png)
 
 *Pie Chart visualizing how job offerings differ between Data analysis and Data Engineering roles like Work from home, no degree mention, Health insurance offered.*
 
@@ -369,11 +369,9 @@ plt.show()
 
 ### Results
 
-<<<<<<< HEAD
 ![Likelihood of Skills Requested in the US Job Postings](Img\likehood_skill_demand_data.png)
 =======
 ![Visualization of Top Skills for Data Nerds](/Img/likehood_skill_demand_data.png)
->>>>>>> 3d0b0c19dd5ca332c49e91816a549a055fdef7f4
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
@@ -407,7 +405,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](Img\Trending_Top_Skills_for_Data_Analysts_in_the_US.png)  
+![Trending Top Skills for Data Analysts in the US](Img/Trending_Top_Skills_for_Data_Analysts_in_the_US.png)  
 *Line graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
@@ -498,7 +496,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US](Img\optimal_skills_US.png)    
+![Most Optimal Skills for Data Analysts in the US](Img/optimal_skills_US.png)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
 #### Insights:
@@ -533,7 +531,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US with Coloring by Technology](Img\Most_Optimal_Skills_for_Data_Analysts_in_the_US.png)  
+![Most Optimal Skills for Data Analysts in the US with Coloring by Technology](Img/Most_Optimal_Skills_for_Data_Analysts_in_the_US.png)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.*
 
 #### Insights:
